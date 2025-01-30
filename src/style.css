@@ -5,3 +5,63 @@
 .services-image {
   width: 370px;
 }
+
+.logo {
+  color: #2196f3;
+}
+
+.logo-highlight {
+  color: #000000;
+}
+
+.nav-link {
+  color: #212121;
+}
+
+.contact-link {
+  color: #757575;
+}
+
+.hero {
+  background-color: #2f303a;
+}
+
+.hero-button {
+  background-color: #2196f3;
+}
+
+.features-title {
+  color: #212121;
+}
+
+.features-text {
+  color: #757575;
+}
+
+.services-title {
+  color: #212121;
+}
+
+.team-title {
+  color: #212121;
+}
+
+.footer-logo {
+  color: #2196f3;
+}
+
+.footer {
+  background-color: #2f303a;
+}
+
+.footer-logo-highlight {
+  color: #ffffff;
+}
+
+.footer-address-text {
+  color: #ffffff;
+}
+
+.footer-contact-link {
+  color: #ffffff60;
+}
