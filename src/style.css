@@ -6,64 +6,90 @@
   width: 370px;
 }
 
-.logo {
-  color: #2196f3;
+:root {
+  --color212121: #212121;
+  --background-2196f3: #2196f3;
+  --color757575: #757575;
+  --colorffffff: #ffffff;
+  --color2196f3: #2196f3;
+  --color000000: #000000;
+  --background-2f303a: #2f303a;
+  --colorffffff: #ffffff;
+  --colorececec: #ececec;
+  --colorf5f4fa: #f5f4fa;
+  --colorffffff60: #ffffff60;
 }
 
 .logo-highlight {
-  color: #000000;
+  color: var(--color000000);
+}
+
+.logo {
+  color: var(--color2196f3);
 }
 
 .nav-link {
-  color: #212121;
+  color: var(--color212121);
 }
 
 .contact-link {
-  color: #757575;
+  color: var(--color757575);
 }
 
 .hero {
-  background-color: #2f303a;
+  background-color: var(--background-2f303a);
 }
 
 .hero-button {
-  background-color: #2196f3;
+  background-color: var(--background-2196f3);
 }
 
 .features-title {
-  color: #212121;
+  color: var(--color212121);
 }
 
 .features-text {
-  color: #757575;
+  color: var(--color757575);
 }
 
 .services-title {
-  color: #212121;
+  color: var(--color212121);
 }
 
 .team-title {
-  color: #212121;
+  color: var(--color212121);
 }
 
-.footer-logo {
-  color: #2196f3;
+.team-name {
+  color: var(--color212121);
+}
+
+.team-role {
+  color: var(--color757575);
 }
 
 .footer {
-  background-color: #2f303a;
+  background-color: var(--background-2f303a);
+}
+
+.footer-logo {
+  color: var(--color2196f3);
 }
 
 .footer-logo-highlight {
-  color: #ffffff;
-}
-
-.footer-address-text {
-  color: #ffffff;
+  color: var(--colorffffff);
 }
 
 .footer-contact-link {
-  color: #ffffff60;
+  color: var(--colorffffff60);
+}
+
+.footer-address-text {
+  color: var(--colorffffff);
+}
+
+.zzzzzz {
+  color: var(--colorffffff60);
 }
 
 body {
