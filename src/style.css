@@ -22,18 +22,27 @@
 
 .logo-highlight {
   color: var(--color000000);
+  font-size: 26px;
 }
 
 .logo {
   color: var(--color2196f3);
+  font-size: 26px;
 }
 
 .nav-link {
   color: var(--color212121);
+  font-size: 14px;
 }
 
 .contact-link {
   color: var(--color757575);
+  font-size: 14px;
+}
+
+.hero-title {
+  color: var(--colorffffff);
+  font-size: 44px;
 }
 
 .hero {
@@ -42,30 +51,41 @@
 
 .hero-button {
   background-color: var(--background-2196f3);
+  font-size: 16px;
 }
 
 .features-title {
   color: var(--color212121);
+  font-size: 14px;
+  line-height: 1.2;
 }
 
 .features-text {
   color: var(--color757575);
+  font-size: 14px;
+  line-height: 1.2;
 }
 
 .services-title {
   color: var(--color212121);
+  font-size: 36px;
 }
 
 .team-title {
   color: var(--color212121);
+  font-size: 36px;
 }
 
 .team-name {
   color: var(--color212121);
+  font-size: 16px;
+  line-height: 1.2;
 }
 
 .team-role {
   color: var(--color757575);
+  font-size: 16px;
+  line-height: 1.2;
 }
 
 .footer {
@@ -74,22 +94,32 @@
 
 .footer-logo {
   color: var(--color2196f3);
+  font-size: 26px;
+  line-height: 1.2;
 }
 
 .footer-logo-highlight {
   color: var(--colorffffff);
+  font-size: 26px;
+  line-height: 1.2;
 }
 
 .footer-contact-link {
   color: var(--colorffffff60);
+  font-size: 14px;
+  line-height: 1.2;
 }
 
 .footer-address-text {
   color: var(--colorffffff);
+  font-size: 14px;
+  line-height: 1.2;
 }
 
 .zzzzzz {
   color: var(--colorffffff60);
+  font-size: 14px;
+  line-height: 1.2;
 }
 
 body {
