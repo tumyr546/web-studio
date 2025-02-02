@@ -18,16 +18,22 @@
   --colorececec: #ececec;
   --colorf5f4fa: #f5f4fa;
   --colorffffff60: #ffffff60;
+  --font-primary: "Roboto", sans-serif;
+  --font-logo: "Raleway", sans-serif;
 }
 
 .logo-highlight {
   color: var(--color000000);
   font-size: 26px;
+  font-family: var(--font-logo);
+  font-weight: 700;
 }
 
 .logo {
   color: var(--color2196f3);
   font-size: 26px;
+  font-family: var(--font-logo);
+  font-weight: 700;
 }
 
 .nav-link {
@@ -96,12 +102,16 @@
   color: var(--color2196f3);
   font-size: 26px;
   line-height: 1.2;
+  font-family: var(--font-logo);
+  font-weight: 700;
 }
 
 .footer-logo-highlight {
   color: var(--colorffffff);
   font-size: 26px;
   line-height: 1.2;
+  font-family: var(--font-logo);
+  font-weight: 700;
 }
 
 .footer-contact-link {
@@ -123,7 +133,7 @@
 }
 
 body {
-  font-family: "Roboto", sans-serif;
+  font-family: var(--font-primary);
 }
 
 @font-face {
