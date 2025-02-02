@@ -83,13 +83,13 @@ ul {
 .features-title {
   color: var(--color212121);
   font-size: 14px;
-  line-height: 1.2;
+  line-height: 1;
 }
 
 .features-text {
   color: var(--color757575);
   font-size: 14px;
-  line-height: 1.2;
+  line-height: 1;
 }
 
 .services-title {
@@ -105,13 +105,13 @@ ul {
 .team-name {
   color: var(--color212121);
   font-size: 16px;
-  line-height: 1.2;
+  line-height: 1;
 }
 
 .team-role {
   color: var(--color757575);
   font-size: 16px;
-  line-height: 1.2;
+  line-height: 1;
 }
 
 .footer {
@@ -121,7 +121,7 @@ ul {
 .footer-logo {
   color: var(--color2196f3);
   font-size: 26px;
-  line-height: 1.2;
+  line-height: 1;
   font-family: var(--font-logo);
   font-weight: 700;
   text-decoration: none;
@@ -130,7 +130,7 @@ ul {
 .footer-logo-highlight {
   color: var(--colorffffff);
   font-size: 26px;
-  line-height: 1.2;
+  line-height: 1;
   font-family: var(--font-logo);
   font-weight: 700;
   text-decoration: none;
@@ -139,21 +139,21 @@ ul {
 .footer-contact-link {
   color: var(--colorffffff60);
   font-size: 14px;
-  line-height: 1.2;
+  line-height: 1;
   text-decoration: none;
 }
 
 .footer-address-text {
   color: var(--colorffffff);
   font-size: 14px;
-  line-height: 1.2;
+  line-height: 1;
   text-decoration: none;
 }
 
 .zzzzzz {
   color: var(--colorffffff60);
   font-size: 14px;
-  line-height: 1.2;
+  line-height: 1;
   text-decoration: none;
 }
 
@@ -188,11 +188,11 @@ body {
 
 .portfolio-title {
   font-size: 18px;
-  line-height: 1.2;
+  line-height: 1;
 }
 
 .portfolio-category {
   font-size: 16px;
-  line-height: 1.2;
+  line-height: 1;
   color: var(--color757575);
 }
