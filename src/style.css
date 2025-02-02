@@ -33,6 +33,7 @@ ul {
   font-size: 26px;
   font-family: var(--font-logo);
   font-weight: 700;
+  text-decoration: none;
 }
 
 .logo {
@@ -40,6 +41,7 @@ ul {
   font-size: 26px;
   font-family: var(--font-logo);
   font-weight: 700;
+  text-decoration: none;
 }
 
 .nav-link {
@@ -122,6 +124,7 @@ ul {
   line-height: 1.2;
   font-family: var(--font-logo);
   font-weight: 700;
+  text-decoration: none;
 }
 
 .footer-logo-highlight {
@@ -130,24 +133,28 @@ ul {
   line-height: 1.2;
   font-family: var(--font-logo);
   font-weight: 700;
+  text-decoration: none;
 }
 
 .footer-contact-link {
   color: var(--colorffffff60);
   font-size: 14px;
   line-height: 1.2;
+  text-decoration: none;
 }
 
 .footer-address-text {
   color: var(--colorffffff);
   font-size: 14px;
   line-height: 1.2;
+  text-decoration: none;
 }
 
 .zzzzzz {
   color: var(--colorffffff60);
   font-size: 14px;
   line-height: 1.2;
+  text-decoration: none;
 }
 
 body {
